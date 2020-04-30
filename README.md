@@ -4,6 +4,8 @@ An AI tool to prevent spreading of coronavirus (COVID-19) by using computer visi
 ## OUR MAGIC SOLUTION
 Monitoring SocialDistance automatically detects the extent to which social distancing protocols are followed in the area.Deploying it on current surveillance systems /drones used by police to monitor large areas can help to prevent coronavirus by allowing automated and better tracking of activities happening in the area. It shows analytics of the area in real time. It can also be used to alert.
 
+## Check out submission at [IBM-Masterclass: AI Explainability](https://explainability-hackathon.bemyapp.com/#/projects/5eaa89f225f1d3001b67f8df)
+
 ###### College Name :  Walchand Institute of Technology, Solapur
 ###### Team Details:
 1. [Pramod Paratabadi – 9158038227](https://www.linkedin.com/in/pramod-p-36bb78156/)
